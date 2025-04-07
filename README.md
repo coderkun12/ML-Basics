@@ -10,20 +10,6 @@ Welcome to the **Machine Learning Repository**! This repository contains a struc
 - **TensorFlow & Keras** – Deep Learning models
 - **OpenCV & PIL** – Image processing
 
-## 🚀 Getting Started
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/coderkun12/ML-Basics.git
-   cd ML-Basics
-   ```
-
-2. **Create and activate a virtual environment (optional but recommended):**
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On macOS/Linux
-   venv\Scripts\activate  # On Windows
-   ```
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
